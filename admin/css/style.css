@@ -1567,7 +1567,7 @@ a.operate-reply {
 /* Logo 图标 */
 /* line 161, ../scss/_icons.scss */
 .i-logo, .i-logo-s {
-  width: 169px;
+  width: 140px;
   height: 40px;
   display: inline-block;
   background: url("../img/bbc.svg") no-repeat;
